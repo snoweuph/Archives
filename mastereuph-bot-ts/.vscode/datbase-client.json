@@ -1,0 +1,43 @@
+{
+    "database.connections": {
+        "1644252027279": {
+            "host": "snoweuph.net",
+            "dbPath": "",
+            "port": "3306",
+            "user": "mastereuph",
+            "authType": "default",
+            "password": "aPfVtcON9SJ1Q9aYL47r4cyfizoCauhCTwVjdgnMpVp0lr1rMgESzyDXOORLSq",
+            "encoding": "utf8",
+            "clientKeyPath": null,
+            "clientCertPath": null,
+            "caPath": null,
+            "database": "mastereuph",
+            "useSSL": false,
+            "usingSSH": false,
+            "showHidden": false,
+            "includeDatabases": null,
+            "dbType": "MySQL",
+            "encrypt": true,
+            "isCluster": false,
+            "connectionUrl": "",
+            "srv": false,
+            "esAuth": "none",
+            "global": false,
+            "key": "1644252027279",
+            "timezone": "+00:00",
+            "ssh": {
+                "host": "",
+                "privateKeyPath": "/home/snoweuph/.ssh/id_rsa",
+                "port": 22,
+                "username": "root",
+                "type": "password",
+                "connectTimeout": 10000,
+                "algorithms": {
+                    "cipher": []
+                }
+            },
+            "name": "MasterEuph",
+            "connectionKey": "database.connections"
+        }
+    }
+}
